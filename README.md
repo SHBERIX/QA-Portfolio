@@ -1,7 +1,3 @@
-![Test Reports](https://img.shields.io/badge/Test%20Reports-113-blue)
-![Verified](https://img.shields.io/badge/Verified-72-success)
-![Security](https://img.shields.io/badge/Security-Testing-red)
-
 # QA Portfolio
 
 Добро пожаловать в моё QA-портфолио.
@@ -110,7 +106,7 @@ pie title Распределение тестовых отчётов
 
 ```mermaid
 pie title Типы тестирования
-    "Functional Testing" : 60
-    "UI Testing" : 35
-    "Security Testing" : 18
+    "Functional Testing" : 68
+    "UI Testing" : 44
+    "Security Testing" : 1
 ```
