@@ -108,5 +108,5 @@ pie title Распределение тестовых отчётов
 pie title Типы тестирования
     "Functional Testing" : 68
     "UI Testing" : 44
-    "Security Testing" : 1
+    "Security Testing" : 5
 ```
